@@ -1,0 +1,30 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+    text-align: center;
+    margin-top: 50px;
+}
+
+.status{
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.offline{
+    color: red;
+}
+
+.online{
+    color: green;
+}
+
+button{
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 20px;
+    background-color:blueviolet;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
